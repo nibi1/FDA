@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "xyz",
+        "age": 25,
+        "password": "abx",
+        "phone number": 24897389,
+        "order_history": {
+            "28-04-2022": [
+                "donut",
+                "donut",
+                "Dosa",
+                "cupcake",
+                "cupcake",
+                "salad",
+                "Gimbab",
+                "donut"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "rgdfher",
+        "age": 25,
+        "password": "abx",
+        "phone number": 24897389,
+        "order_history": {
+            "28-04-2022": [
+                "cupcake",
+                "salad",
+                "Dosa",
+                "donut"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Nibi",
+        "age": 25,
+        "password": "abc",
+        "phone number": 24897389,
+        "order_history": {
+            "28-04-2022": [
+                "cupcake",
+                "donut",
+                "Gimbab"
+            ]
+        }
+    }
+]
